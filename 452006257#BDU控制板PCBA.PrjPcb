@@ -12,7 +12,7 @@ SeparateFolders=0
 TemplateLocationPath=
 PinSwapBy_Netlabel=1
 PinSwapBy_Pin=1
-AllowPortNetNames=0
+AllowPortNetNames=1
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
 NetlistSinglePinNets=0
@@ -23,8 +23,8 @@ DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
-AutoSheetNumbering=0
-AutoCrossReferences=0
+AutoSheetNumbering=1
+AutoCrossReferences=1
 NewIndexingOfSheetSymbols=1
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
@@ -42,7 +42,7 @@ CrossRefSheetStyle=1
 CrossRefLocationStyle=1
 CrossRefPorts=3
 CrossRefCrossSheets=1
-CrossRefSheetEntries=0
+CrossRefSheetEntries=1
 CrossRefFollowFromMainSettings=1
 
 [Preferences]
@@ -288,7 +288,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ORICWRVS
 
 [Document15]
-DocumentPath=基准.SchDoc
+DocumentPath=电源及基准.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -305,7 +305,24 @@ GenerateClassCluster=0
 DocumentUniqueId=USJFIODM
 
 [Document16]
-DocumentPath=氧传感器.SchDoc
+DocumentPath=TSI-840523.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NWZVKRPB
+
+[Document17]
+DocumentPath=氧浓度传感器.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -321,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XCRGQDIQ
 
-[Document17]
+[Document18]
 DocumentPath=压力传感器.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CPOYSEFR
 
-[Document18]
+[Document19]
 DocumentPath=452006257#BDU控制板2-单片机.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RVDQJIJI
 
-[Document19]
+[Document20]
 DocumentPath=452006257#BDU控制板3-功能安全.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EKEPHGIW
 
-[Document20]
+[Document21]
 DocumentPath=452006257#BDU控制板4-通讯接口.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DUJLSBPE
 
-[Document21]
+[Document22]
 DocumentPath=452006257#BDU控制板5-传感器.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GUASYACI
 
-[Document22]
+[Document23]
 DocumentPath=452006257#BDU控制板6-传感器及外部AD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RPKKSIIH
 
-[Document23]
+[Document24]
 DocumentPath=452006257#BDU控制板7-执行部件.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NKKRDMYB
 
-[Document24]
+[Document25]
 DocumentPath=PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YSNKHHLW
 
-[Document25]
+[Document26]
 DocumentPath=设计和工作指导文件\pcb加工厂加工水平.docx
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document27]
 DocumentPath=NIBP问题检查单.xlsx
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document28]
 DocumentPath=452006257#BDU控制板.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YEYMSWDN
 
-[Document28]
+[Document29]
 DocumentPath=452006257#BDU控制板PCBA.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
