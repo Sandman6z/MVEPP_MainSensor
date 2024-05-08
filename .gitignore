@@ -1,13 +1,5 @@
-*.tar
-*.tar.*
-*.jar
-*.exe
-*.msi
-*.zip
-*.tgz
+# logs:
 *.log
-*.log.*
-*.sig
 
-pkg/
-src/
+# historys:
+/History/
