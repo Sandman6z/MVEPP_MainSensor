@@ -1,0 +1,57 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Bitch\Desktop\Honeywell_SensorPCB\PCB.PcbDoc
+Date     : 2024/5/22
+Time     : 15:37:40
+
+Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net PGND Between Pad PE1-1(-4598.27mil,3933.58mil) on Multi-Layer And Pad C44-2(-4581.221mil,3747.638mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net PGND Between Pad C44-2(-4581.221mil,3747.638mil) on Top Layer [Unplated] And Pad R42-2(-4427.56mil,3724.173mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net PGND Between Pad J4-27(-4229.843mil,4004.291mil) on Multi-Layer And Pad J4-26(-3265.276mil,4004.291mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net PGND Between Pad J4-26(-3265.276mil,4004.291mil) on Multi-Layer And Pad PE8-1(-3052.756mil,4004.291mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net PGND Between Pad PE1-1(-4427.56mil,4004.291mil) on Multi-Layer And Pad J4-27(-4229.843mil,4004.291mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net PGND Between Pad PE2-1(-748.032mil,3904.294mil) on Multi-Layer And Pad PE4-1(-306.932mil,2224.609mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net PGND Between Pad PE8-1(-2852.756mil,4004.291mil) on Multi-Layer And Pad PE2-1(-848.032mil,4004.294mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net PGND Between Pad PE3-1(-3897.638mil,206.654mil) on Multi-Layer And Pad PE5-1(-3897.638mil,1305.866mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net PGND Between Pad PE6-1(-244.25mil,374.217mil) on Multi-Layer And Pad PE4-1(-236.221mil,2053.898mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net PGND Between Pad PE9-1(-1307.243mil,1712.797mil) on Multi-Layer And Pad PE4-1(-306.932mil,2083.187mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net PGND Between Pad PE7-1(-4456.849mil,1571.376mil) on Multi-Layer And Pad PE5-1(-3997.638mil,1405.866mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net PGND Between Pad PE7-1(-4456.849mil,1712.797mil) on Multi-Layer And Pad R42-2(-4427.56mil,3724.173mil) on Top Layer [Unplated] 
+Rule Violations :12
+
+Processing Rule : Width Constraint (Min=7mil) (Max=200mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=150mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 12
+Waived Violations : 0
+Time Elapsed        : 00:00:01
