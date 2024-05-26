@@ -359,6 +359,10 @@ DocumentUniqueId=YJVVBAVW
 DocumentPath=Project Outputs for 452006257#BDU控制板PCBA\Design Rule Check - PCB.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for 452007098_MVEPP主传感器板\Design Rule Check - PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
