@@ -219,23 +219,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YSNKHHLW
 
-[Document11]
-DocumentPath=PCB.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YJVVBAVW
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for 452006257#BDU控制板PCBA\Design Rule Check - PCB.html
 DItemRevisionGUID=
