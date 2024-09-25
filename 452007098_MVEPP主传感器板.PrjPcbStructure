@@ -1,8 +1,10 @@
-Record=TopLevelDocument|FileName=IO.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=IO.SchDoc|FileName=Others.SchDoc|SheetNumber=7
-Record=NoMainPathDocument|SourceDocument=IO.SchDoc|FileName=Power&Vref.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=IO.SchDoc|FileName=TSI-840523.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=IO.SchDoc|FileName=Ñ¹Á¦´«¸ÐÆ÷1.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=IO.SchDoc|FileName=Ñ¹Á¦´«¸ÐÆ÷2.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=IO.SchDoc|FileName=¿òÍ¼.SchDoc|SheetNumber=8
-Record=NoMainPathDocument|SourceDocument=IO.SchDoc|FileName=ÑõÅ¨¶È´«¸ÐÆ÷.SchDoc|SheetNumber=3
+Record=TopLevelDocument|FileName=Top.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_IO|SchDesignator=U_IO|FileName=IO.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=IO.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_LED|SchDesignator=U_LED|FileName=LED.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=LED.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_Others|SchDesignator=U_Others|FileName=Others.SchDoc|SheetNumber=9|SymbolType=Normal|RawFileName=Others.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_OxygenSensor|SchDesignator=U_OxygenSensor|FileName=OxygenSensor.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=OxygenSensor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_Power&Vref|SchDesignator=U_Power&Vref|FileName=Power&Vref.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Power&Vref.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_PressSensor1|SchDesignator=U_PressSensor1|FileName=PressSensor1.SchDoc|SheetNumber=7|SymbolType=Normal|RawFileName=PressSensor1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_PressSensor2|SchDesignator=U_PressSensor2|FileName=PressSensor2.SchDoc|SheetNumber=8|SymbolType=Normal|RawFileName=PressSensor2.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_TSI-840523|SchDesignator=U_TSI-840523|FileName=TSI-840523.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=TSI-840523.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_¿òÍ¼|SchDesignator=U_¿òÍ¼|FileName=¿òÍ¼.SchDoc|SheetNumber=10|SymbolType=Normal|RawFileName=¿òÍ¼.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
